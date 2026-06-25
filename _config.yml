@@ -23,7 +23,7 @@ repository               : "CDKnapp/cdknapp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "me.jpg"
   name             : "Caelan D. Knapp"
   pronouns         : # example: "she/her"  
   bio              : "Caelan is a Ph.D. candidate in philosophy, working on questions of technology ethics and human flourishing."
